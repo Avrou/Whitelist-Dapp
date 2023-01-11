@@ -1,4 +1,5 @@
 require("@nomicfoundation/hardhat-toolbox");
+//require
 require("dotenv").config({ path: ".env" });
 
 const QUICKNODE_HTTP_URL = "https://smart-smart-layer.ethereum-goerli.discover.quiknode.pro/a2bc3112177151ae269abc6ea379810361651321/";
